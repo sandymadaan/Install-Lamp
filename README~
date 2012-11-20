@@ -1,0 +1,13 @@
+TCC-SCRIPT
+
+This is the LAMP script. This script downloads and installs the all the related packages on your system, making all settings and changes all itself.
+
+
+RUN
+For installing LAMP, following steps need to be followed :
+Just run the command :
+./lamp.sh
+and you will have lamp installed. How easy na!!!
+
+Let me know if you have any problem.
+EnJoY!!! :)
